@@ -11,9 +11,10 @@ El script principal, `automatizar.sh`, se encarga de ejecutar una serie de coman
 ## Instrucciones de Uso
 
 1. Asegúrate de tener los archivos de datos necesarios en las carpetas correspondientes.
-2. Ejecuta el script `cd-hit.sh` utilizando el comando `bash cd-hit.sh` en el directorio raíz que contiene las carpetas numeradas, dichas carpetas sería cada una de tus muestras. El script procesará cada carpeta por separado, realizando las operaciones necesarias.
+2. Concede los permisos de ejecución mediante chmod +x cd-hit.sh
+3. Ejecuta el script `cd-hit.sh` utilizando el comando `bash cd-hit.sh` en el directorio raíz que contiene las carpetas numeradas, dichas carpetas sería cada una de tus muestras. El script procesará cada carpeta por separado, realizando las operaciones necesarias.
 
-**Nota:** Necesitas del software de CD-HIT. LO podrás encontrar aquí: https://github.com/weizhongli/cdhit
+**Nota:** Necesitas del software de CD-HIT. Lo podrás encontrar aquí: https://github.com/weizhongli/cdhit
 
 ## Autor
 
