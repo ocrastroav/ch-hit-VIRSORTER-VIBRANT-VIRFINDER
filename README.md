@@ -1,4 +1,4 @@
-# ch-hit-VIRSORTER-VIBRANT-VIRFINDER
+# cd-hit-VIRSORTER-VIBRANT-VIRFINDER
 
 
 Este repositorio contiene un pequeño script en bash para ciertas tareas en diferentes carpetas. Es importante recalcar que el directorio donde se encuentran tus resultados de los programas de VIRSORTER-VIBRANT-VIRFINDER dependen de cada usuario. Debes modificar esto dependiendo de tu directorio.
