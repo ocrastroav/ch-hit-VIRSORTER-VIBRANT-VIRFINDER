@@ -1,11 +1,11 @@
 # cd-hit-VIRSORTER-VIBRANT-VIRFINDER
 
 
-Este repositorio contiene un pequeño script en bash para ciertas tareas en diferentes carpetas. Es importante recalcar que el directorio donde se encuentran tus resultados de los programas de VIRSORTER-VIBRANT-VIRFINDER dependen de cada usuario. Debes modificar esto dependiendo de tu directorio.
+Este repositorio contiene un pequeño script en bash para ciertas tareas en diferentes carpetas. Es importante recalcar que el directorio donde se encuentran tus resultados de los programas de VIRSORTER-VIBRANT-VIRFINDER dependen de cada usuario. Debes modificar esto dependiendo de tu directorio. Así mismo, donde ejecutarás el script, cada carpeta deberá tener el nombre de tu muestra.
 
 ## Descripción
 
-El script principal, `automatizar.sh`, se encarga de ejecutar una serie de comandos dentro de cada carpeta numerada encontrada en el directorio raíz. Estos comandos realizan operaciones como enlaces simbólicos, concatenación de archivos fasta, y ejecución de programas como `cd-hit-est` y `cd-hit-est-2d`. Cada carpeta contiene archivos específicos que son procesados de acuerdo a las reglas establecidas en el script.
+El script `cd-hit.sh`, se encarga de ejecutar una serie de comandos dentro de cada carpeta numerada encontrada en el directorio raíz. Estos comandos realizan operaciones como enlaces simbólicos, concatenación de archivos fasta, y ejecución de programas como `cd-hit-est` y `cd-hit-est-2d`. Cada carpeta contiene archivos específicos que son procesados de acuerdo a las reglas establecidas en el script.
 
 
 ## Instrucciones de Uso
